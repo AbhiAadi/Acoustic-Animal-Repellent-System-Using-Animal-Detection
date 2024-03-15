@@ -1,0 +1,12 @@
+path: "C:/Users/adars/Desktop/Engg. Projects/Capstone/Code/Data/Yolov8n"
+train: Images/train
+  
+val: Images/train
+    
+nc: 2
+
+names:
+  0: Dog
+  1: Boar
+
+
